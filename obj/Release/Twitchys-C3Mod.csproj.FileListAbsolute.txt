@@ -1,0 +1,14 @@
+C:\Users\Reborn\Desktop\C3Mod_Mod\bin\Release\Twitchys-C3Mod.dll
+C:\Users\Reborn\Desktop\C3Mod_Mod\bin\Release\Twitchys-C3Mod.pdb
+C:\Users\Reborn\Desktop\C3Mod_Mod\bin\Release\Community.CsharpSqlite.dll
+C:\Users\Reborn\Desktop\C3Mod_Mod\bin\Release\Community.CsharpSqlite.SQLiteClient.dll
+C:\Users\Reborn\Desktop\C3Mod_Mod\bin\Release\Mono.Data.Sqlite.dll
+C:\Users\Reborn\Desktop\C3Mod_Mod\bin\Release\MySql.Data.dll
+C:\Users\Reborn\Desktop\C3Mod_Mod\bin\Release\MySql.Web.dll
+C:\Users\Reborn\Desktop\C3Mod_Mod\bin\Release\Newtonsoft.Json.dll
+C:\Users\Reborn\Desktop\C3Mod_Mod\bin\Release\TerrariaServer.exe
+C:\Users\Reborn\Desktop\C3Mod_Mod\bin\Release\TShockAPI.dll
+C:\Users\Reborn\Desktop\C3Mod_Mod\bin\Release\HttpServer.dll
+C:\Users\Reborn\Desktop\C3Mod_Mod\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Reborn\Desktop\C3Mod_Mod\obj\Release\Twitchys-C3Mod.dll
+C:\Users\Reborn\Desktop\C3Mod_Mod\obj\Release\Twitchys-C3Mod.pdb
